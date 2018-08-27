@@ -3724,7 +3724,7 @@
       <track muted="0" type="5" name="Automation track" solo="0">
         <automationtrack/>
         <automationpattern tens="0" mute="0" prog="2" name="AHH Choir 1>Volume" pos="0" len="2496">
-          <time value="41" pos="0"/>
+          <time value="40.2" pos="0"/>
           <time value="100" pos="1536"/>
           <time value="100" pos="2304"/>
           <time value="0" pos="2496"/>
